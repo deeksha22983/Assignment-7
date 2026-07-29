@@ -1,14 +1,14 @@
 # Customer Segmentation using K-Means Clustering and PCA
 
-**Author:** Akshat Garg  
+**Author:** Deeksha Sharma 
 
-**Registration Number:** 23BCE10641 
+**Registration Number:** 23BCG10065
 
-**Application Number:** IN26011052
+**Application Number:** IN26011323
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in  
+**Email ID:** dishasha2004@gmail.com 
 
 ## Objective
 The objective of this project is to segment mall customers into distinct behavioral groups based on demographic details, annual income, and spending scores using K-Means clustering, and visualize the segments in 2D using Principal Component Analysis (PCA)[cite: 2].
